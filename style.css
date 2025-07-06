@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(245, 229, 229);
+    color: brown;
+}
+div{
+    background-color: goldenrod;
+    color: blue;
+    border:1px solid black;
+    box-shadow: 10px 10px 10px blue;
+    margin:20px;
+    padding:20px;
+    
+}
